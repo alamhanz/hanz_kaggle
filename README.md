@@ -1,2 +1,2 @@
 # hanz_kaggle
-its just my kaggle collection beside my kernel at kaggle
+It is just my kaggle (Alamhanz) collection beside my kernel at kaggle (If you find one).
