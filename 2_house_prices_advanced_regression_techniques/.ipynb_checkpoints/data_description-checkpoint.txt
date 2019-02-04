@@ -1,13 +1,3 @@
-GET THE DATA HERE :
-https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
-
-kaggle competitions download -c house-prices-advanced-regression-techniques
-
-
-
-
-# Data Description
-
 MSSubClass: Identifies the type of dwelling involved in the sale.	
 
         20	1-STORY 1946 & NEWER ALL STYLES
