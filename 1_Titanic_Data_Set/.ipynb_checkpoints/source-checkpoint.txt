@@ -1,0 +1,6 @@
+https://www.kaggle.com/c/titanic
+
+https://www.kaggle.com/mrisdal/titanic/exploring-survival-on-the-titanic/notebook
+https://sites.google.com/site/aslugsguidetopython/data-analysis/pandas/calling-r-from-python
+
+kaggle competitions download -c titanic
